@@ -1,0 +1,25 @@
+{
+  "name": "serverless-survey-app",
+  "version": "1.0.0",
+  "description": "Serverless Survey App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "serverless",
+    "jwt"
+  ],
+  "author": "write2sagarkhajure@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dynamodb-toolbox": "^0.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "uuid": "^7.0.1"
+  }
+}
